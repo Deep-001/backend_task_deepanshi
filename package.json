@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1",
+    "redis": "^4.4.0",
+    "socket.io": "^4.5.3"
+  },
+  "name": "backend_task",
+  "version": "1.0.0",
+  "description": "create simple todo list",
+  "main": "index.js",
+  "repository": "https://github.com/Deep-001/backend_task_deepanshi.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
